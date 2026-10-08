@@ -1,6 +1,7 @@
-def square(x):
-    return x*x
-number=7
-result=square(number)
-print(f"Число: {number}") 
-print(f"Квадрат: {result}") 
+# Вывод приветствия 
+print("Hello, World!") 
+# Вывод имени студента 
+name = "Иван Иванов" 
+print(f"Студент: {name}") 
+# Вывод даты 
+print("Дата: 2026-09-10") 
